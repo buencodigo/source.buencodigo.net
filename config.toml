@@ -1,6 +1,6 @@
 languageCode = "es-mx"
 title = "El buen código"
-baseurl = "http://buencodigo.net"
+baseurl = "https://buencodigo.github.io"
 theme = "hyde"
 [params]
   description = "Hola"
