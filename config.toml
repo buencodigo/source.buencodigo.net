@@ -1,0 +1,7 @@
+languageCode = "es-mx"
+title = "El buen código"
+baseurl = "http://buencodigo.net"
+theme = "hyde"
+[params]
+  description = "Hola"
+  themeColor = "theme-base-08"
