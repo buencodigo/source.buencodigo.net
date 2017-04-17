@@ -1,7 +1,8 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:elbuencodigo/elbuencodigo.github.io.git
 [submodule "themes/hyde"]
 	path = themes/hyde
 	url = https://github.com/spf13/hyde.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:elbuencodigo/elbuencodigo.github.io.git
 	branch = master
