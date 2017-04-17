@@ -1,6 +1,6 @@
 languageCode = "es-mx"
 title = "El Buen Código"
-baseurl = "https://elbuencodigo.github.io"
+baseurl = "https://elbuencodigo.github.io/"
 theme = "hyde"
 [params]
   description = "El Buen Código es el sitio en español que pretende promover las buenas prácticas de desarrollo de software sin poner tanta importancia a lenguajes o herramientas en específico."
